@@ -1,0 +1,16 @@
+body{
+    background-color: #f310104f;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+input, select, button{
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid blueviolet;
+    font-size: 20px;
+    padding: 20px;   
+}
+/* input, select, button::placeholder{
+    color: silver;
+} */
